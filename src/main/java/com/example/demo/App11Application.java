@@ -10,7 +10,7 @@ public class App11Application {
 	
 	@GetMapping("/")
 	public String home() {
-		return "Docker app 1 >>>> hello >>>> ";
+		return "Docker app 1 >>>> hello >>>> one more";
 	}
 	
 	
